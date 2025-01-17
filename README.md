@@ -6,7 +6,7 @@ This is the material related to the computer vision course of Tongji University 
 
 ## Contents
 
-**Assignment 1-3: **Three course assignments.
+**Assignment 1-3:** Three course assignments.
 
 **Binocular-Stereo:** Course project - Binocular stereo vision related practice.
 
