@@ -13,7 +13,7 @@ This is the material related to the computer vision course of Tongji University 
 |     Homework     | Score |
 | :--------------: | :---: |
 |   Assignment1    | 10/10 |
-|   Assignment2    | 10.10 |
+|   Assignment2    | 10/10 |
 |   Assignment3    |   U   |
 | Binocular-Stereo |   U   |
 
